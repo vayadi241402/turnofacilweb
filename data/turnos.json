@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "nombre": "Vanina Janeth Diaz",
+        "dni": "34925414",
+        "especialidad": "Medicina General",
+        "fecha": "2026-05-27",
+        "horario": "09:00",
+        "estado": "cancelado"
+    }
+]
